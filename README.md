@@ -24,8 +24,8 @@ Users should be able to:
 ![](./screenshot.jpg)
 
 ### Links
-- Solution URL: [github repo](https://your-solution-url.com)
-- Live Site URL: [live url](https://your-live-site-url.com)
+- Solution URL: [github repo](https://github.com/zakaria-guenifi/Bento-grid-challenge)
+- Live Site URL: [live url](https://zakaria-guenifi.github.io/Bento-grid-challenge/)
 
 ## My process
 As usual, I started by setting up the design system, this time using only the JPG previews since the Figma file wasn’t provided. I then moved on to building out the reset, utility classes, and custom properties, which made styling the HTML much cleaner and avoided repetitive CSS.
